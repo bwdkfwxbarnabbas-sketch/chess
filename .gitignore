@@ -1,0 +1,8 @@
+backend/.env
+backend/.venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+backend/checkmate_rooms.pkl
+backend/checkmate_rooms.tmp
